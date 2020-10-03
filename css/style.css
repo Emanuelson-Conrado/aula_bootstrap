@@ -1,0 +1,16 @@
+.navbar{
+    background-color: black;
+}
+li{
+    background-color: gray;
+}
+body{
+    background-color: rgb(27, 149, 206);
+}
+section{
+    margin-left: 50;
+    margin-top: 10;
+}
+img{
+   margin-top: 10;
+}
